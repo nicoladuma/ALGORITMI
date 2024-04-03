@@ -1,0 +1,5 @@
+//provagit
+union a
+{
+    /* data */
+};
